@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-11-02T20:27:00+08:00</updated><entry><title>亂數 RAND</title><link href="./RAND.html" rel="alternate"></link><published>2017-11-02T20:27:00+08:00</published><updated>2017-11-02T20:27:00+08:00</updated><author><name>40423222</name></author><id>tag:,2017-11-02:./RAND.html</id><summary type="html">&lt;p&gt;RAND指令介紹&lt;/p&gt;
+
+
+&lt;hr&gt;
+
+&lt;h3&gt;RAND( )-範例:&lt;/h3&gt;
+&lt;h4&gt;說明:&lt;/h4&gt;
+&lt;p&gt;RAND(): 隨機產生大於0到小於1的值&lt;br&gt;
+注意: 案F9 或 重開檔案 或 輸入值,會更新亂數值&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;第一步: 選擇B2格子,輸入&lt;Font style="background-color: #ffff00"&gt;=RAND()&lt;/Font&gt;
+&lt;br&gt;
+&lt;img src="./../data/RAND/step-1.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;第二步: 按下鍵盤Enter,就能在B2產生亂數
+&lt;br&gt;
+&lt;img src="./../data/RAND/step-2.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;第三步: 對B2複製,滑鼠按住B2移動到E6後貼上,就能產生許多亂數
+&lt;br&gt;
+&lt;img src="./../data/RAND/step-3.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;第四步: 案F9,可以再次產生新亂數
+&lt;br&gt;
+&lt;img src="./../data/RAND/step-4.png" width="500"&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3&gt;RAND( )範圍-範例:&lt;/h3&gt;
+&lt;h4&gt;說明:&lt;/h4&gt;
+&lt;p&gt;RAND()*&lt;Font style="background-color: #ffff00"&gt;數值&lt;/Font&gt;: 隨機產生大於0到小於&lt;Font style="background-color: #ffff00"&gt;數值&lt;/Font&gt;的值&lt;br&gt;
+注意: 案F9 或 重開檔案 或 輸入值,會更新亂數值&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;第一步: 在B2輸入&lt;Font style="background-color: #ffff00"&gt;=RAND()*10000&lt;/Font&gt; , B3輸入&lt;Font style="background-color: #ffff00"&gt;=RAND()*5000&lt;/Font&gt; , B4輸入&lt;Font style="background-color: #ffff00"&gt;=RAND()*1000&lt;/Font&gt; , B5輸入&lt;Font style="background-color: #ffff00"&gt;=RAND()*100&lt;/Font&gt;
+&lt;img src="./../data/RAND/SecondStep-1.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;第二步: 對B2點右鍵選擇&lt;Font style="background-color: #ffff00"&gt;儲存格格式(F)&lt;/Font&gt; , 到自訂的類型輸入00000 , 同理B3輸入0000 , B4輸入0000 , B5輸入000
+&lt;img src="./../data/RAND/SecondStep-2.png" width="500"&gt;
+&lt;br&gt;
+結果如下圖
+&lt;br&gt;
+&lt;img src="./../data/RAND/SecondStep-3.png" width="500"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;第三步: 複製B2到B5,貼上到B到E&lt;br&gt;
+&lt;img src="./../data/RAND/SecondStep-4.png" width="500"&gt;
+&lt;br&gt;
+結果如下圖
+&lt;br&gt;
+&lt;img src="./../data/RAND/SecondStep-5.png" width="500"&gt;&lt;/p&gt;</summary><category term="RAND"></category></entry></feed>
