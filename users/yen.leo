@@ -46,7 +46,8 @@
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
 <v t="leo.20170621064408.1"><vh>@edit 亂數.md</vh></v>
-<v t="leo.20171102202450.1"><vh>@path pages</vh>
+<v t="leo.20171119095932.1"><vh>@edit 抽樣.md</vh></v>
+<v t="leo.20171102202450.1" a="E"><vh>@path pages</vh>
 <v t="leo.20171102202450.2"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
